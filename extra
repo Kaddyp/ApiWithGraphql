@@ -1,0 +1,4 @@
+//Created Graphql Playground
+// Install Packages
+npm install express express-graphql graphql lodash
+
